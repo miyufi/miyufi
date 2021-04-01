@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<body>
+	<h1 align="center">Hi there 👋</h1>
+	<br>
+	<div align="center">
+		<img src="peko.gif">
+	</div>
+</body>
 <!--
 **miyufi/miyufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
