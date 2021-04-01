@@ -1,8 +1,8 @@
 <body>
-	<h1 align="center">Hi there 👋</h1>
+	<h1 align="center">ʜɪ ᴛʜᴇʀᴇ 👋</h1>
 	<br>
 	<div align="center">
-		<img src="peko.gif" style="width: 150%; height: auto;">
+		<img src="peko.gif">
 	</div>
 </body>
 <!--
