@@ -2,7 +2,7 @@
 	<h1 align="center">Hi there 👋</h1>
 	<br>
 	<div align="center">
-		<img src="peko.gif">
+		<img src="peko.gif" style="width: 150%">
 	</div>
 </body>
 <!--
