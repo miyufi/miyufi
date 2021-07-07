@@ -19,7 +19,7 @@
 		<b>Gender:</b> :)
 		</li>
 		<li>
-		<b>Hobbies:</b> Gaming, programming stuff to become lazy
+		<b>Hobbies:</b> Gaming, programming stuff to have fun
 		</li>
 		<li>
 		<b>Working?</b> Nope, still a student
