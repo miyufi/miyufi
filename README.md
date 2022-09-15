@@ -12,20 +12,14 @@
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=8a00f2">
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwindcss&color=151515&logoColor=000&labelColor=8a00f2">
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/-Keras-000?style=for-the-badge&logo=keras&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&color=151515&logoColor=000&labelColor=8a00f2">
-    <img src="https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy&color=151515&logoColor=000&labelColor=8a00f2">
+  <img src="https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&color=151515&logoColor=000&labelColor=8a00f2">
-  </div>
-  <div align="center">
   <img src="https://img.shields.io/badge/-Windows%2011-000?style=for-the-badge&logo=windows11&color=151515&logoColor=000&labelColor=8a00f2">
   <img src="https://img.shields.io/badge/-Arch%20Linux-000?style=for-the-badge&logo=archlinux&color=151515&logoColor=000&labelColor=8a00f2">
   </div>
