@@ -5,7 +5,7 @@
 
 ---
 
-  <img src="https://lanyard-profile-readme.vercel.app/api/417191139842457610?theme=dark&bg=151515&animated=false&hideDiscrim=false&borderRadius=30px&hideStatus=true&idleMessage=sleeping%20or%20coding" align="right" height="240px"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/417191139842457610?theme=dark&bg=151515&animated=false&hideDiscrim=false&borderRadius=30px&hideStatus=true&idleMessage=sleeping%20or%20coding" align="right" />
 <div align="center">
 
   <h4>Tech Stack</h4>
